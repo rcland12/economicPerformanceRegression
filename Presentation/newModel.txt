@@ -1,0 +1,21 @@
+
+Call:
+lm(formula = Y ~ X)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.056457 -0.014874  0.001402  0.019397  0.060944 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  2.647e-02  1.177e-02   2.248  0.03401 *  
+XGM          4.224e-02  1.250e-02   3.378  0.00249 ** 
+XGOS        -3.323e-09  2.035e-09  -1.633  0.11550    
+XEBITM       1.463e+00  2.377e-01   6.155 2.33e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02743 on 24 degrees of freedom
+Multiple R-squared:  0.8619,	Adjusted R-squared:  0.8446 
+F-statistic: 49.92 on 3 and 24 DF,  p-value: 1.815e-10
+

@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{paper}
+Lucian Buse, Mirela Ganea, and Daniel Circiumaru.
+\newblock Using linear regression in the analysis of financial-economic
+  performances.
+\newblock Technical report, University of Craiova, Craiova, Romania, 2009.
+
+\bibitem{text1}
+Montgomery~Douglas C., Peck~Elizabeth A., and Vining~G. Geoffrey.
+\newblock {\em Introduction to Linear Regression Analysis}.
+\newblock John Wiley \& Sons Inc., United States of America, fifth edition,
+  2012.
+
+\bibitem{text2}
+R.~Lyman Ott and Michael Longnecker.
+\newblock {\em An Introduction to Statistical Methods and Data Analysis}.
+\newblock Cancage Learning, Belmont, CA, sixth edition, 2010.
+
+\end{thebibliography}

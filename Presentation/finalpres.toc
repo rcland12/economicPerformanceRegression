@@ -1,0 +1,15 @@
+\beamer@sectionintoc {1}{Abstract}{3}{0}{1}
+\beamer@sectionintoc {2}{Data}{5}{0}{2}
+\beamer@sectionintoc {3}{Simple Linear Regression}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Assumptions}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Building Model}{8}{0}{3}
+\beamer@subsectionintoc {3}{3}{Testing for Regression}{11}{0}{3}
+\beamer@sectionintoc {4}{Multiple Linear Regression}{21}{0}{4}
+\beamer@subsectionintoc {4}{1}{Building Model}{21}{0}{4}
+\beamer@subsectionintoc {4}{2}{Multicollinearity}{25}{0}{4}
+\beamer@subsectionintoc {4}{3}{Test for Regression}{27}{0}{4}
+\beamer@subsectionintoc {4}{4}{Extra-Sum-of-Squares}{32}{0}{4}
+\beamer@sectionintoc {5}{Model Adequacy}{37}{0}{5}
+\beamer@subsectionintoc {5}{1}{Checking Model Adequacy}{37}{0}{5}
+\beamer@subsectionintoc {5}{2}{Transformation}{50}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{61}{0}{6}
